@@ -42,3 +42,24 @@ body {
 .baner-text {
   padding-top: 150px;
 }
+
+/* main section styles  */
+main {
+  margin: 150px 0;
+}
+
+.section-title {
+  color: #272727;
+  text-align: center;
+  font-size: 40px;
+  font-weight: 800;
+  margin-bottom: 20px;
+}
+.section-text {
+  width: 650px;
+  color: rgba(39, 39, 39, 0.6);
+  text-align: center;
+  font-size: 18px;
+  font-weight: 400;
+  margin: auto;
+}
