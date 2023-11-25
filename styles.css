@@ -63,3 +63,52 @@ main {
   font-weight: 400;
   margin: auto;
 }
+
+/* Flower tree section styles  */
+
+.flower-tree {
+  display: flex;
+  justify-content: space-between;
+  margin: 50px 240px;
+}
+
+.tree-1 {
+  border-radius: 300px 300px 0px 0px;
+  background: rgba(167, 33, 98, 0.15);
+  width: 360px;
+  height: 500px;
+}
+.tree-2 {
+  border-radius: 300px 300px 0px 0px;
+  background: rgba(5, 151, 160, 0.15);
+  width: 360px;
+  height: 500px;
+}
+.tree-3 {
+  border-radius: 300px 300px 0px 0px;
+  background: rgba(71, 125, 17, 0.15);
+  width: 360px;
+  height: 500px;
+}
+.tree img {
+  width: 300px;
+  display: block;
+  margin: auto;
+  text-align: center;
+}
+.tree-1 img {
+  padding-top: 85px;
+}
+.tree-2 img {
+  padding-top: 150px;
+}
+.tree-3 img {
+  padding-top: 50px;
+}
+
+.tree p {
+  color: #272727;
+  text-align: center;
+  text-decoration-line: underline;
+  margin-top: 20px;
+}
