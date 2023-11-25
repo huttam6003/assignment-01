@@ -130,3 +130,19 @@ main {
   margin: auto;
   margin-bottom: 20px;
 }
+
+/* sign up section  */
+.sign-up-section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 100px 300px;
+  border-radius: 8px;
+  background: rgba(229, 84, 115, 0.05);
+  text-align: center;
+}
+
+.sign-up-img img {
+  width: 300px;
+  margin-left: 80px;
+}
