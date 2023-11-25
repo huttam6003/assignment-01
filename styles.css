@@ -112,3 +112,21 @@ main {
   text-decoration-line: underline;
   margin-top: 20px;
 }
+
+/* icon section styles  */
+.icon-section {
+  margin: 120px 240px;
+  display: flex;
+  justify-content: space-between;
+  background: rgba(39, 39, 39, 0.05);
+  padding: 50px 150px;
+}
+.icon p {
+  color: rgba(39, 39, 39, 0.8);
+  text-align: center;
+}
+.icon img {
+  display: block;
+  margin: auto;
+  margin-bottom: 20px;
+}
